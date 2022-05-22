@@ -14,19 +14,13 @@ Our group was assigned to work on a Digital Healthcare Platform website called A
 We have completed the Given website With our best Knowledge up to now 247 in six days.
 ( HOW WE DID IT )
 Before answering the big question of “ how we did it? “, let me show you some snippets of our website clone.
-— Landing Page Of Our Project —
-
-_ Doctors Consult Page _
-
-^ Pharmacy and Products Page ^
-
-~Lab-Tests Page~
-
-~Covid-19 page~
-
-~Cart page~
-
-~Login page~
+Landing Page Of Our Project
+ Doctors Consult Page 
+ Pharmacy and Products Page 
+Lab-Tests Page
+Covid-19 page
+Cart page
+Login page
 
 I hope I am not presenting you with so many snippets. The snippets attached above are just some parts of what we have made so that you could compare them with the actual website.
 Now answering the big question of how we did it, I would like to say that it is because of the guidance of our captain Chandra Sekhar he guides towards making the website pixel perfect, I and my wonderful teammates had, we able to achieve our goal. As part of Masai school, we have always believed that communication and skills are greater than knowledge so it is because of effective communication and sheer will to understand complicated things and make them simple to understand, that we were able to create the page with comparatively fewer resources and fewer time.
