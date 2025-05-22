@@ -32,6 +32,3 @@ Venkatesh M N
 
 Bhuvaneswaran S
 
-Abhay kumar Pandey
-
-Vineet kutty
